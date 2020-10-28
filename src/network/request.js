@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = "http://152.136.185.210:8000/api/w6/";
+const baseURL = "接口请添加coderwhy老师微信";
 
 export function request(config) {
   const instance = axios.create({
